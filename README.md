@@ -7,9 +7,7 @@
 - 💻 I mainly use C/C++, Python and MATLAB.
 
 
-[![Jeongin's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=red-sprout&theme=dracula&layout=compact&hide=javascript,html,jupyter%20notebook&exclude_repo=python-vaction)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=red-sprout&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaewan's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=red-sprout&theme=dracula&layout=compact&hide=javascript,html,jupyter%20notebook&exclude_repo=python-vaction)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
