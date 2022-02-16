@@ -3,7 +3,7 @@
  * Live in Ansan, South Korea
  * Mechanical engineering student in Hanyang Univ. ERICA Campus
 
-- ⚙  I am interested in Robotics and RL.
+- ⚙  I am interested in ML/DL
 - 💻 I mainly use C/C++, Python and MATLAB.
 
 
