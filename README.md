@@ -11,7 +11,7 @@
 
 ### Solved.ac
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={sprout6626})](https://solved.ac/{sprout6626})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/sprout6626)
 
 <!--
 **red-sprout/red-sprout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
