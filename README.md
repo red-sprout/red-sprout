@@ -1,6 +1,6 @@
 ## Hello! I'm Jaewan Joo
 
- * Live in Pohang, South Korea
+ * Live in Seoul, South Korea
  * Back-end develeoper
 
 ### Languages
