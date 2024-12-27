@@ -2,6 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Jaewan%20Joo&color=auto)
   
+  <br>
   <h3>😎 Introduction 😎</h3>
   안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.
 
