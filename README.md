@@ -2,11 +2,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Jaewan%20Joo&color=auto)
   
-  <br>
   <h3>😎 Introduction 😎</h3>
   안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.
 
-  <br>
+  <br><br>
   <h3>✉️ SNS ✉️</h3>
 
   [![Gmail Badge](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jjw05015@gmail.com)](mailto:jjw05015@gmail.com)
