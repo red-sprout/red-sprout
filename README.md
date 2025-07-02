@@ -6,6 +6,18 @@
   안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.
 
   <br><br>
+  <h3>🎖️ BOJ tier 🎖️<h3>
+    
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/sprout6626)<br><br>
+  ![cpp](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+
+  <!--
+  <br>
+  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sprout6626" width="600" height="300"/></a><br>
+  -->
+
+  <br>
   <h3>✉️ SNS ✉️</h3>
 
   [![Gmail Badge](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jjw05015@gmail.com)](mailto:jjw05015@gmail.com)
@@ -46,24 +58,12 @@
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-  <h4>FE</h4>
-  
-  ![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
   <br>
   <h3>📖 Studying 📖</h3>
 
   ![kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-  <br>
-  <h3>🎖️ BOJ tier 🎖️<h3>
-    
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/sprout6626)<br><br>
-  ![cpp](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br><br>
-
-  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sprout6626" width="600" height="300"/></a><br>
+  ![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
   <br>
   <h3>📈 Github Stats 📈</h3>
