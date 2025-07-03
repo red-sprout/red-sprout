@@ -3,19 +3,35 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Jaewan%20Joo&color=auto)
   
   <h3>😎 Introduction 😎</h3>
-  안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.
+  
+  안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.<br>
 
-  <br><br>
-  <h3>🎖️ BOJ tier 🎖️<h3>
-    
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/sprout6626)<br><br>
-  ![cpp](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+  <br>
+  <h3>🏫 Education 🏫</h3>
+  
+  Samsung Software Academy For Youth(SSAFY) 12th <br>
+  Hanyang University ERICA, Mechanical Engineering (GPA: 4.27 / 4.5, Summa Cum Laude)<br>
 
+  <br>
+  <h3>📒 Algorithm 📒</h3>
+  
+  Samsung SW Pro Level (25.02.22), Selected as an excellent solution<br><br>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/sprout6626)<br>
+  ![cpp](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
   <!--
   <br>
   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sprout6626" width="600" height="300"/></a><br>
   -->
+
+  <br>
+  <h3>🎖️ Awards 🎖️</h3>
+  
+  | Awarding Organization |	Name |	Prize |
+  |---|---|---|
+  | Samsung Electronics Co., Ltd. | SSAFY 특화 프로젝트 우수 | 3rd |
+  | Samsung Electronics Co., Ltd.	| SSAFY 전공 Java 트랙 성적 우수	| 2nd	|
 
   <br>
   <h3>✉️ SNS ✉️</h3>
