@@ -26,12 +26,22 @@
   -->
 
   <br>
-  <h3>🎖️ Awards 🎖️</h3>
+  <h3>🎖️ Awards & Certifications 🎖️</h3>
+
+  <h4>Awards</h4>
   
   | Awarding Organization |	Name |	Prize |
   |---|---|---|
   | Samsung Electronics Co., Ltd. | SSAFY 특화 프로젝트 우수 | 3rd |
   | Samsung Electronics Co., Ltd.	| SSAFY 전공 Java 트랙 성적 우수	| 2nd	|
+
+  <h4>Certifications</h4>
+
+  |	Name | Date |
+  |---|---|
+  | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/817ce1f9-2081-4ee2-a0e1-5321f5c033f4) | 2025.07.06 |
+  | 정보처리기사 | 2024.09.10 |
+  | SQLD | 2024.06.21 |
 
   <br>
   <h3>✉️ SNS ✉️</h3>
