@@ -1,8 +1,9 @@
 <h2>😎 Introduction</h2>
 
-안녕하세요! 언제나 탐구하고 공부하는 개발자, 주재완입니다.<br>
+안녕하세요! 주재완입니다.<br>
+대량 데이터 처리와 트랜잭션 구조 설계를 중심으로, 운영 환경에서의 안정성을 끝까지 책임지는 백엔드 개발자입니다.<br>
 - E-mail: [jjw05015@gmail.com](mailto:jjw05015@gmail.com)
-- Blog: [https://velog.io/@red-sprout/posts](https://velog.io/@red-sprout/posts)
+- Blog: [https://velog.io/@red-sprout/posts](https://velog.io/@red-sprout/posts) / [https://sprout6626.tistory.com/category](https://sprout6626.tistory.com/category)
 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/%EC%9E%AC%EC%99%84-%EC%A3%BC-606762340/)
 
 <br>
@@ -39,10 +40,11 @@ Samsung SW Pro Level (25.02.22), Selected as an excellent solution<br><br>
 - 정보처리기사 - 2024.09.10
 - SQL 개발자(SQLD) - 2024.06.21
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/761a0243-4307-4587-8d8d-5228e591a01d" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/69204872-1018-4a1e-9144-a8d913b142d5" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/69204872-1018-4a1e-9144-a8d913b142d5" alt="SAA" width="100" />
+  <img src="https://github.com/user-attachments/assets/761a0243-4307-4587-8d8d-5228e591a01d" alt="CCP" width="100" />
+</p>
 
-<br>
 <h2>⚡ Skill ⚡</h2>
 
 <h3>BE</h3>
