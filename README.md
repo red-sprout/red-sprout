@@ -3,7 +3,7 @@
 안녕하세요! 주재완입니다.<br>
 대량 데이터 처리와 트랜잭션 구조 설계를 중심으로, 운영 환경에서의 안정성을 끝까지 책임지는 백엔드 개발자입니다.<br>
 - E-mail: [jjw05015@gmail.com](mailto:jjw05015@gmail.com)
-- Blog: [https://velog.io/@red-sprout/posts](https://velog.io/@red-sprout/posts) / [https://sprout6626.tistory.com/category](https://sprout6626.tistory.com/category)
+- Blog: [https://velog.io/@red-sprout/posts](https://velog.io/@red-sprout/posts)
 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/%EC%9E%AC%EC%99%84-%EC%A3%BC-606762340/)
 
 <br>
