@@ -23,7 +23,7 @@
 
 <br>
 
-## 🌱 Open Source
+## 🌱 Open Source Contribution
 
 ### [GlueSQL](https://github.com/gluesql/gluesql)
 
