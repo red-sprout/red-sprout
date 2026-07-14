@@ -33,12 +33,7 @@
 
 #### [Fix primary key predicate planning for joins](https://github.com/gluesql/gluesql/pull/1943)
 
-JOIN된 Relation의 Primary Key Predicate가 첫 번째 `FROM` Relation의  
-Lookup으로 잘못 적용되던 SQL Planner 버그를 수정했습니다.
-
-- Relation과 Alias를 기준으로 Primary Key 최적화 대상을 검증했습니다.
-- 안전하게 최적화할 수 없는 Predicate를 `WHERE` 조건에 보존했습니다.
-- Qualified·Unqualified Column과 다중 JOIN 회귀 테스트를 추가했습니다.
+JOIN Predicate가 잘못된 Relation의 Primary Key Lookup으로 적용되던 Planner 버그를 수정하고 Alias와 컬럼 소속 검증을 추가했습니다.
 
 <br>
 
