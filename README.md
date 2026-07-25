@@ -30,10 +30,12 @@
 <a href="https://github.com/gluesql/gluesql/pull/1943">
   <img src="https://img.shields.io/badge/PR_%231943-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://github.com/gluesql/gluesql/pull/1961">
+  <img src="https://img.shields.io/badge/PR_%231961-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-#### [Fix primary key predicate planning for joins](https://github.com/gluesql/gluesql/pull/1943)
-
-JOIN Predicate가 잘못된 Relation의 Primary Key Lookup으로 적용되던 Planner 버그를 수정하고 Alias와 컬럼 소속 검증을 추가했습니다.
+- [PR 1943](https://github.com/gluesql/gluesql/pull/1943) : JOIN Predicate가 잘못된 Relation의 Primary Key Lookup으로 적용되던 Planner 버그를 수정하고 Alias와 컬럼 소속 검증을 추가했습니다.
+- [PR 1961](https://github.com/gluesql/gluesql/pull/1961) : Subquery, Series, Dictionary 등의 Table Factor가 실제 Context에 존재하는 Alias인지 확인하도록 Evaluability 검증을 보강했습니다.
 
 <br>
 
