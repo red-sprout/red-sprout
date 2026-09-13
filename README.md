@@ -4,7 +4,7 @@
 **데이터 정합성, 트랜잭션 경계, 실패 복구 구조**를 설계합니다.
 
 [Email](mailto:jjw05015@gmail.com) ·
-[Blog](https://velog.io/@red-sprout/posts) ·
+[Blog](https://sprout6626.tistory.com) ·
 [LinkedIn](https://www.linkedin.com/in/%EC%9E%AC%EC%99%84-%EC%A3%BC-606762340/)
 
 <br>
