@@ -1,7 +1,7 @@
-# 주재완 | Backend Engineer
+# 주재완
 
-대량 데이터 처리와 외부 시스템 연동 과정에서  
-**데이터 정합성, 트랜잭션 경계, 실패 복구 구조**를 설계합니다.
+데이터베이스를 **설계하고, 운영하고, 엔진 내부에서 이해합니다.**  
+데이터 모델링과 쿼리 성능, 정합성과 복구 구조를 중심으로 문제를 풉니다.
 
 [Email](mailto:jjw05015@gmail.com) ·
 [Blog](https://sprout6626.tistory.com) ·
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Database_Internals-Query_Optimization-336791?style=flat-square" />
   <img src="https://img.shields.io/badge/Transaction-Concurrency_Control-6DB33F?style=flat-square" />
   <img src="https://img.shields.io/badge/Data-Consistency_%26_Recovery-F80000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Large--scale-Data_Processing-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Modeling-FF6F00?style=flat-square" />
 </p>
 
 데이터베이스 내부 구조와 쿼리 최적화, 트랜잭션과 동시성 제어에 관심이 있습니다.  
@@ -26,6 +26,7 @@
 ## 🌱 Open Source Contribution
 
 ### [GlueSQL](https://github.com/gluesql/gluesql)
+<sub>2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여</sub>
 
 <a href="https://github.com/gluesql/gluesql/pull/1943">
   <img src="https://img.shields.io/badge/PR_%231943-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
@@ -53,17 +54,6 @@
   <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge" />
-</p>
-
 ### Database
 
 <p>
@@ -74,19 +64,12 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Infrastructure & Data
+### Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 </p>
-
-<sub>
-Also experienced with Spring Security, Flyway, Azure, Pandas, Flutter and MQTT
-</sub>
 
 <br>
 
@@ -115,6 +98,9 @@ Also experienced with Spring Security, Flyway, Azure, Pandas, Flutter and MQTT
 
 ## 📜 Certifications
 
+> **SQL 전문가(SQLP)**  
+> `2026.09`
+
 > **AWS Certified Solutions Architect – Associate**  
 > `2025.09`
 
@@ -126,6 +112,3 @@ Also experienced with Spring Security, Flyway, Azure, Pandas, Flutter and MQTT
 
 > **SQL 개발자(SQLD)**  
 > `2024.06`
-
-> **OPIc IH**  
-> `2024.09`
