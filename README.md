@@ -33,9 +33,13 @@
 <a href="https://github.com/gluesql/gluesql/pull/1961">
   <img src="https://img.shields.io/badge/PR_%231961-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://github.com/gluesql/gluesql/pull/2001">
+  <img src="https://img.shields.io/badge/PR_%232001-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- [PR 1943](https://github.com/gluesql/gluesql/pull/1943) : JOIN Predicate가 잘못된 Relation의 Primary Key Lookup으로 적용되던 Planner 버그를 수정하고 Alias와 컬럼 소속 검증 추가
-- [PR 1961](https://github.com/gluesql/gluesql/pull/1961) : Subquery, Series, Dictionary 등의 Table Factor가 실제 Context에 존재하는 Alias인지 확인하도록 Evaluability 검증 보강
+- [PR 1943](https://github.com/gluesql/gluesql/pull/1943) : JOIN 조건이 다른 Relation의 Primary Key Lookup으로 잘못 적용되던 Planner 버그 수정
+- [PR 1961](https://github.com/gluesql/gluesql/pull/1961) : Derived Table, Series 등 Table Factor 내부 참조까지 Evaluability 검증 확장
+- [PR 2001](https://github.com/gluesql/gluesql/pull/2001) : PostgreSQL 스타일 정규식 연산자(`~`, `~*`, `!~`, `!~*`) 지원 추가
 
 <br>
 
